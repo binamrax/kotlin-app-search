@@ -80,6 +80,7 @@ class MainActivity : AppCompatActivity() {
                 )
             );
         }
+        // adding all app list
         dislist.addAll(list);
         searchap()
     }
